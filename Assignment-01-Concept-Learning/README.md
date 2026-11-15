@@ -1,6 +1,6 @@
 # Concept Learning
 
-**Machine Learning: Assignment 2 (Concept Learning)**
+**Machine Learning: Assignment 1 (Concept Learning)**
 Shahid Bahonar University of Kerman, Department of Computer Engineering
 
 | | |
