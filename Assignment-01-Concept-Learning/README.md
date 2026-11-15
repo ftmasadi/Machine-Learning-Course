@@ -7,7 +7,7 @@ Shahid Bahonar University of Kerman, Department of Computer Engineering
 |---|---|
 | Instructor | Dr. Mahdi Eftekhari |
 | Teaching Assistant | M. H. Shamsipoor |
-| Student | [Fatemeh Asadi Zeydabadi] |
+| Student | Fatemeh Asadi Zeydabadi |
 | Assigned | November 6, 2026 |
 | Deadline | November 16, 2026, 23:59 |
 | Reference | *Machine Learning* by Tom M. Mitchell, Chapter 2 |
