@@ -25,4 +25,3 @@ Python version used: <write your version here>
   "more general than" test or the instance generator (NumPy is only used for statistics, Matplotlib for the plot).
 - Standard deviation is the sample standard deviation (ddof = 1); median/IQR use NumPy's linear percentiles.
 - Runs stopped by Nmax are reported separately and excluded from the statistics (none occurred).
-- AI usage: <state honestly here how AI assistance was used, as allowed by the assignment>
